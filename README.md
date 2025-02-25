@@ -1,4 +1,38 @@
-## Hi there 👋
+# Hi there! 👋 I'm Rafanomezantsoa Sariakiniaina (s4r14k)
+
+## 🚀 About Me
+I'm a passionate **Unreal Engine Developer** and **Full-Stack Developer** with experience in creating immersive 2D platformer games, AI-driven characters, and custom tools for game development. I also work with **WordPress**, **JetEngine**, and **WooCommerce** to build dynamic and scalable websites.
+
+## 🎮 Game Development
+- Creator of **Platformer2DTemplate** for Unreal Engine ([GitHub Repo](https://github.com/s4r14k/Platformer2DTemplate))
+- Published a **course on Udemy**: [Make a 2D Platformer in Unreal Engine 5](https://www.udemy.com/course/make-a-2d-platformer-in-unreal-engine-5-c/?instructorPreviewMode=guest)
+- Developing AI character movement in **Unreal C++**
+- Experienced with **NavMesh, Animation Blueprints, AI Behavior Trees**
+- Selling **Unreal plugins** on fab Marketplace 
+
+## 🌐 Web Development
+
+- 💻 **Developer:** I love writing code and building applications that solve real-world problems.
+- 📚 **Lifelong Learner:** I'm always eager to learn new technologies, frameworks, and programming languages.
+- 🤝 **Collaborator:** I enjoy working with others and contributing to open-source projects.
+- 📅 **Last Updated:** 2025-02-25 12:23:01 (UTC)
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, JavaScript, TypeScript, Java, C++
+- **Frameworks & Libraries:** React, Node.js, Express, Django, Spring Boot
+- **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Azure, GitHub Actions
+
+## 📫 Let's Connect!
+- GitHub: [s4r14k](https://github.com/s4r14k)
+- Unreal Marketplace: [s4r14k unreal plugins](https://www.fab.com/sellers/s4r14k%20store)
+- Udemy: [My Course](https://www.udemy.com/course/make-a-2d-platformer-in-unreal-engine-5-c/?instructorPreviewMode=guest)
+- Twitter/X: [@s4r14k](https://twitter.com/s4r14k)
+- LinkedIn: [Rafanomezantsoa Sariakiniaina](https://www.linkedin.com/in/sariak-rafanomezantsoa-81a9a4134/)
+
+⚡ **Let's build something amazing together!**
+
+
 
 <!--
 **s4r14k/s4r14k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
