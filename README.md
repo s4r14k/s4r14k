@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Rafanomezantsoa Sariakiniaina (s4r14k)
 
 ## 🚀 About Me
-I'm a passionate **Unreal Engine Developer** and **Full-Stack Developer** with experience in creating immersive 2D platformer games, AI-driven characters, and custom tools for game development. I also work with **WordPress**, **JetEngine**, and **WooCommerce** to build dynamic and scalable websites.
+I'm a passionate **Unreal Engine Developer** and **Full-Stack Developer** with experience in creating immersive 2D platformer games, AI-driven characters, and custom tools for game development.
 
 ## 🎮 Game Development
 - Creator of **Platformer2DTemplate** for Unreal Engine ([GitHub Repo](https://github.com/s4r14k/Platformer2DTemplate))
