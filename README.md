@@ -1,4 +1,9 @@
-# Hi there! 👋 I'm Rafanomezantsoa Sariakiniaina (s4r14k)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4r14k&layout=compact&theme=radical"
+  alt="Most Used Languages"
+  width={495}
+  height={195}
+/>
 
 ## 🚀 About Me
 I'm a passionate **Unreal Engine Developer** and **Full-Stack Developer** with experience in creating immersive 2D platformer games, AI-driven characters, and custom tools for game development.
