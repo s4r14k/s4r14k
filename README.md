@@ -20,13 +20,6 @@ I'm a passionate **Unreal Engine Developer** and **Full-Stack Developer** with e
 - 💻 **Developer:** I love writing code and building applications that solve real-world problems.
 - 📚 **Lifelong Learner:** I'm always eager to learn new technologies, frameworks, and programming languages.
 - 🤝 **Collaborator:** I enjoy working with others and contributing to open-source projects.
-- 📅 **Last Updated:** 2025-02-25 12:23:01 (UTC)
-
-## 🛠️ Technologies & Tools
-
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks & Libraries:** React, Node.js, Express, Django, Spring Boot
-- **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Azure, GitHub Actions
 
 ## 📫 Let's Connect!
 - GitHub: [s4r14k](https://github.com/s4r14k)
